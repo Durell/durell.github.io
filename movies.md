@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## 90's Movies to Watch
 
 [Glengarry Glen Ross](https://www.google.com/search?q=glengarry+glen+ross&oq=glengar&aqs=chrome.0.0j69i57j0l4.1775j0j7&sourceid=chrome&ie=UTF-8)
@@ -12,3 +16,4 @@
 [Ed Wood](https://www.google.com/search?sxsrf=ACYBGNTSesc9co1MF_xG90oC8pzHYgm5Mw%3A1571705676452&ei=TFOuXbaUG8rYtAXrhYXADg&q=ed+wood+movie&oq=ed+wood+movie&gs_l=psy-ab.3..0i20i263l2j0l8.2998.3797..3878...0.0..0.146.700.0j5......0....1..gws-wiz.......0i67.W8EjSHAP82M&ved=0ahUKEwi26qT0067lAhVKLK0KHetCAegQ4dUDCAs&uact=5)
 [Before Sunrise](https://www.google.com/search?q=before+sunrise&oq=before+sunri&aqs=chrome.0.0l3j69i57j0l2.2415j0j9&sourceid=chrome&ie=UTF-8)
 
+[back](./)
