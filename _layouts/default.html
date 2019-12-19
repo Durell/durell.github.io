@@ -24,9 +24,14 @@
 
     <div class="container-narrow">
       <ul class="nav nav-pills pull-right">
+			   {% for item in site.data.navigation.docs %}
+			      <li {% if item.url == page.url %}class="active"{% endif %}><a href="{{ item.url }}">{{ item.title }}</a></li>
+			   {% endfor %}
+        <!--
         <li class="active"><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a href="about">About</a></li>
+        <li><a href="./contact.html">Contact</a></li>
+        --> 
       </ul>
       <h2 class="muted"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
     </div>
@@ -49,6 +54,17 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
+        {% if site.show_skills %}
+        <ul class= "view">
+          <li class="view">Python</li>
+          <li class="view">Java</li>
+          <li class="view">C++</li>
+          <li class="view">C#</li>
+          <li class="view">Assembly</li>
+          <li class="view">Shell Scripting</li>
+          <li class="view">git            </li>
+        </ul>
+        {% endif %}
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>

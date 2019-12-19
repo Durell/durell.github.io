@@ -2,7 +2,28 @@
 layout: default
 ---
 
-<br/>
+<span style="font-size: 12pt;color: black; text-align: center; display: inline-block">
+Computer Science Engineer  
+Freelance Full Stack Web Dev  
+6 Years Experience  
+</span>
 
-Passionate about finding solutions to real world problems with code and software
-solutions.
+### Skills / Interests
+- Software Engineer
+  - Web/Mobile Development   
+  - RasPi and Arduino Programming  
+<br/> 
+- Mathemetician
+  - Matrixes, probabilities, set theory and proofs  
+<br/>
+- Analytical Thinker
+  - Pursue efficient solutions algorithmically  
+<br/> 
+- Martial Arts
+  - Kajukenbo and Kung Fu  
+<br/> 
+- Sci-fi 
+  - Favorite novel: Dune by Frank Herbert  
+<br/>
+- Music
+  - Enjoy playing guitar and singing
