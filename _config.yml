@@ -1,8 +1,13 @@
 title: Durell Smith
 email: d7smith@ucsd.edu
-logo: /assets/img/logo.png
-description: Computer Science Aficionado
-show_downloads: true
+logo: /assets/img/logo.jpg
+description: Technology Enthusiast 
+description2: Computer Science Aficionado
+show_downloads: false
 google_analytics:
 github_username: durell
 theme: jekyll-theme-minimal
+show_skills: true
+github:
+  is_user_page: true
+  owner_url: https://github.com/Durell
