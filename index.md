@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<span style="font-size: 12pt;color: black; text-align: center; display: inline-block">
+<span style="font-size: 12pt;color: black">
 Computer Science Engineer  
 Freelance Full Stack Web Dev  
 6 Years Experience  
